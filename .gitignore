@@ -1,0 +1,9 @@
+# Binarios y archivos de compilación
+bin/
+*.o
+*.mod
+
+# Resultados de las simulaciones
+salidas/
+*.txt
+anim.gnp
